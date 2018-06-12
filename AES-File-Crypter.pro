@@ -8,7 +8,7 @@ QT       += core gui
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = "AES_Crypter"
+TARGET = AES_Crypter
 TEMPLATE = app
 
 # The following define makes your compiler emit warnings if you use
